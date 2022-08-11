@@ -8,7 +8,9 @@ languages = [
   java,  
   python,  
   lua,  
-  gdscript  
+  c#,  
+  gdscript,  
+  scratch ;)
 ]  
   
 pronouns = [  
